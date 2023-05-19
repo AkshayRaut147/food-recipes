@@ -1,0 +1,26 @@
+body {
+    font-family: Verdana, sans-serif;
+    background-color: chocolate;
+    color: aqua;
+    font-size: 24px;
+}
+
+h1 {
+    color: chartreuse;
+    text-align: center;   
+}
+
+h2 {
+    color: darkgreen;
+}
+
+strong {
+    color: pink;
+    font-weight: 800;
+}
+
+img {
+    height: 500px;
+    width: auto;
+}
+
